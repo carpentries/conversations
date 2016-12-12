@@ -3,7 +3,7 @@ Welcome to the Carpentry conversations repo.
 We envision this repository as a first step in developing a thoughtful, efficient, and community-driven communications strategy.
 We propose that this repository become the canonical channel for communicating new ideas, suggestions, and progress updates between Carpentry community members and staff.  
 
-To take part in the conversation about developing communication strategy - please respond to the issue ["Developing a Transparent and Community-Driven Communications Strategy"](https://github.com/ErinBecker/conversations/issues/1).  
+To take part in the conversation about developing communication strategy - please respond to the issue ["Developing a Transparent and Community-Driven Communications Strategy"](https://github.com/carpentries/conversations/issues/1).  
 
 To start another conversation about a suggestion you have, ask a question about ongoing work, or give feedback about an issue or obstacle you face in the community, please start a new Issue.  
 
