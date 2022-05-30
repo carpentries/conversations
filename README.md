@@ -1,16 +1,27 @@
 
 
-![](https://github.com/carpentries/logo/blob/master/TheCarpentries.png)
+![The Carpentries logo](https://github.com/carpentries/logo/blob/master/TheCarpentries.png)
 
-Welcome to [The Carpentries](https://carpentries.org) conversations repo. You belong in The Carpentries.
+Welcome to [The Carpentries](https://carpentries.org) conversations repository. You belong in The Carpentries!
 
-We envision this repository as a first step in developing a thoughtful, efficient, and community-driven communications strategy.
-We propose that this repository become the canonical channel for communicating new ideas, suggestions, and progress updates between Carpentries community members and [team](https://carpentries.org/team/).  
+-----------
 
-To take part in the conversation about developing communication strategy - please respond to the issue ["Developing a Transparent and Community-Driven Communications Strategy"](https://github.com/carpentries/conversations/issues/1).  
+This repository is the channel for communicating new ideas, suggestions, and progress updates between The Carpentries community members and [the Core Team](https://carpentries.org/team/). It also includes comments and discussions relevant to our community [blog posts](https://carpentries.org/blog/).
 
-To start another conversation about a suggestion you have, ask a question about ongoing work, or give feedback about an issue or obstacle you face in the community, please [start a new issue][issues].
+## Comments associated with our websites
 
-As we work to develop a communications strategy, The Carpentries [team](https://carpentries.org/team/) will actively monitor this repo and follow-up on issues. All decisions about communications will "live" on this repo. If the community-driven process leads to a decision to use a mechanism other than GitHub for facilitating communications, this repo will be retired and communications migrated to a permanent canonical channel.  
+The Carpentries websites use [utteranc.es](https://utteranc.es/) as a commenting
+system. Each page or blog post where commenting is enabled corresponds to an
+[issue](https://github.com/carpentries/carpentries.org-comments/issues) in this
+repository. Comments for our lesson program websites (https://datacarpentry.org,
+https://software-carpentry.org, and https://librarycarpentry.org) all go to this
+repository and are identified with different labels.
+
+To be able to post comments on the site, you will need to authorize the utteranc.es
+application the first time you use it.
+
+## General conversations
+
+To start a new conversation about a suggestion you have, ask a question about ongoing work, or give feedback about an issue or obstacle you face in the community, please [open a new issue][issues]. The Carpentries [Community Development Team](https://carpentries.org/core-team-projects/#community-development-team) will actively monitor this repository and follow-up on issues as they are posted. A detailed plan on how this will be managed is forthcoming, but all decisions will "live" on this repository to promote transparency within the community.   
 
 [issues]: https://github.com/carpentries/conversations/issues
